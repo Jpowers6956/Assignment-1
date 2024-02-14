@@ -33,4 +33,4 @@ PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to
   <li>*Example in italics*</li>
 </ul>
 
-Couldn't figure 
+Couldn't include screenshots in code. Everytime I tried imgur in the code it return errors. The screenshots are in the Github repository.
