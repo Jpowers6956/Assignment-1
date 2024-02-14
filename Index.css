@@ -1,0 +1,22 @@
+h1{
+background-color: rgb(10, 85, 10);
+font-weight: bold;
+text-align: center;
+}
+p{
+font-family: 'Times New Roman', Times, serif;
+}
+h3{
+background-color: rgb(78, 85, 189);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.section{
+font-weight: bold;
+background-color: rgb(78, 85, 189);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.subsection{
+font-family: 'Times New Roman', Times, serif;
+}
